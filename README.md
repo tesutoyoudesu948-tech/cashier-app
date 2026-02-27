@@ -14,5 +14,10 @@
 5　会計方法を選択する。
 6　レシートを発行するか選ぶ。
 
+推奨Pythonバージョン
+3.12
+
+
+
 お問い合わせは以下のフォームからお願い致します。
 https://docs.google.com/forms/d/e/1FAIpQLSeSLqQiFiHOI4loI8JnByzEXH6Tt_8lUV39ICz7YZkghJN8Ww/viewform?usp=dialog
