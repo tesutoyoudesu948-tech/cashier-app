@@ -19,4 +19,5 @@
 
 
 お問い合わせは以下のフォームからお願い致します。
-https://docs.google.com/forms/d/e/1FAIpQLSdfND5BlTdZ-n9sERMmRcK7K3KhJyRAuw6b3Bqa24fkmeZTCQ/viewform?usp=publish-editor
+
+https://forms.gle/wTKN1Lj9fuA3jFpe9
