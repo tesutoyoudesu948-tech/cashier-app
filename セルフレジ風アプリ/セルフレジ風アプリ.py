@@ -51,7 +51,7 @@ def save_product(code, name, price, discount=0):
 # 共通ダイアログ
 # -------------------------------
 class AppDialog(QDialog):
-    def __init__(self, message, parent=None):
+    def __init__(self, message, parent=None, auto_close_ms=500):
         super().__init__(parent)
         self.setWindowFlags(Qt.FramelessWindowHint | Qt.Dialog)
         self.setModal(True)
@@ -59,26 +59,28 @@ class AppDialog(QDialog):
         QDialog { background-color: rgba(0,0,0,180); }
         QWidget#panel { background-color: #1c1c1c; border-radius: 30px; }
         QLabel { font-size: 35px; color: white; }
-        QPushButton { font-size: 30px; background-color: #0078ff; color: white; padding: 15px; border-radius: 15px; }
-        QPushButton:hover { background-color: #3399ff; }
         """)
+
         main = QVBoxLayout()
         panel = QWidget()
         panel.setObjectName("panel")
         layout = QVBoxLayout()
+
         label = QLabel(message)
         label.setAlignment(Qt.AlignCenter)
-        ok = QPushButton("OK")
-        ok.clicked.connect(self.accept)
+
         layout.addWidget(label)
-        layout.addWidget(ok)
         panel.setLayout(layout)
+
         main.addStretch()
         main.addWidget(panel)
         main.addStretch()
+
         self.setLayout(main)
         self.showFullScreen()
 
+        # 0.5秒後に自動で閉じる
+        QTimer.singleShot(auto_close_ms, self.accept)
 # -------------------------------
 # レシート確認ダイアログ
 # -------------------------------
