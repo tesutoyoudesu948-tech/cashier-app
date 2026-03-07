@@ -24,9 +24,6 @@
 https://forms.gle/wTKN1Lj9fuA3jFpe9
 
 2次配布する場合は、お問い合わせフォームに2次配布するurlを入力してください。
-
-
-
 def discount(item):
     item["price"] = item["price"] * 9 // 10  # 10%割引
 
