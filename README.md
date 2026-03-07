@@ -19,8 +19,15 @@
 推奨Pythonバージョン
 3.12
 
-お問い合わせは以下のフォームからお願い致します。
+2次配布する場合は、お問い合わせフォームに2次配布するurlを入力してください。
 
+
+リンク
+
+お問い合わせフォーム
 https://forms.gle/wTKN1Lj9fuA3jFpe9
 
-2次配布する場合は、お問い合わせフォームに2次配布するurlを入力してください。
+①ホームページ
+https://sites.google.com/view/qweryuiopasdfghjklzxcvbnm/%E3%83%9B%E3%83%BC%E3%83%A0
+
+
