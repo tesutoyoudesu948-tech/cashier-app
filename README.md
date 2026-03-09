@@ -21,7 +21,9 @@
 
 2次配布する場合は、お問い合わせフォームに2次配布するurlを入力してください。
 
+ビルドコマンド
 
+pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect-all pyzbar --collect-all PyQt5 セルフレジ風アプリ.py
 
 
 リンク
