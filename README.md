@@ -19,9 +19,8 @@
 推奨Pythonバージョン
 3.12
 
-2次配布する場合は、お問い合わせフォームに2次配布するurlを入力してください。
 
-ビルドコマンド
+ビルドコマンド（非推奨）
 
 pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect-all pyzbar --collect-all PyQt5 セルフレジ風アプリ.py
 
