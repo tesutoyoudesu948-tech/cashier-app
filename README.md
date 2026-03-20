@@ -36,6 +36,7 @@ https://forms.gle/wTKN1Lj9fuA3jFpe9
 
 https://sites.google.com/view/qweryuiopasdfghjklzxcvbnm/%E3%83%9B%E3%83%BC%E3%83%A0
 
-セルフレジ風アプリのホームページ
+セルフレジ風アプリのホームページ（googleドライブ版はこちらからをダウンロードできます。）
 
 https://sites.google.com/view/ho-mupe-zi/%E3%83%9B%E3%83%BC%E3%83%A0
+
