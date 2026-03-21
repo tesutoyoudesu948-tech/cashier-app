@@ -30,7 +30,7 @@ exe版：レシート店名変更機能はv1.0.2のみ利用できます。店�
 pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect-all pyzbar --collect-all PyQt5 セルフレジ風アプリ.py
 
 
-リンク
+## リンク
 
 お問い合わせフォーム
 
