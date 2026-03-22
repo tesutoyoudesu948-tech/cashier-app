@@ -175,10 +175,11 @@ admin_barcode.txt
 店員バーコードを設定するファイルです
 
 store_name.txt
-レシートに表示する店名を保存します
+レシートに表示する店名を保存します　：v1.0.1にはありません。
 
 qrcode_sites.google.com.png
-電子マネー支払い時に表示される画像です
+電子マネー支払い時に表示される画像です　：QRコードですが、アクセスしても何も起こりません。
+## ＜注意＞ products.txt,admin barcode.txt,store_name.txtを削除するとデータが消えます。ご注意ください。
 
 ## 注意事項
 
