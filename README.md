@@ -43,7 +43,7 @@ admin_barcode.txt を開きます
 
 - バーコード生成サイトで作成し、スマホに表示する
 - 紙に印刷する
-- 実際の商品を店員バーコードとして使用する<img width="1280" height="346" alt="Image" src="https://github.com/user-attachments/assets/435ee7d3-44b2-4955-9642-1bb1276807fa" />
+- 実際の商品を店員バーコードとして使用する<img width="800" height="346" alt="Image" src="https://github.com/user-attachments/assets/435ee7d3-44b2-4955-9642-1bb1276807fa" />
 
 用意したバーコードをカメラにかざすと、店員モードに入ります
 
