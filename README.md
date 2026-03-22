@@ -166,7 +166,7 @@ admin_barcode.txt が存在しない場合は
 
 ただし、まとめて編集したい場合はファイルを直接編集することもできます
 
-## 必要なファイル
+## ファイル
 
 products.txt
 商品データを保存するファイルです
@@ -179,7 +179,13 @@ store_name.txt
 
 qrcode_sites.google.com.png
 電子マネー支払い時に表示される画像です　：QRコードですが、アクセスしても何も起こりません。
-## ＜注意＞ products.txt,admin barcode.txt,store_name.txtを削除するとデータが消えます。ご注意ください。
+
+## 各ファイルの形式
+
+products.txt
+
+バーコード,商品名,値段,割引率
+
 
 ## 注意事項
 
