@@ -39,7 +39,7 @@ pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect
 
 お問い合わせフォーム
 
-https://forms.gle/wTKN1Lj9fuA3jFpe9
+https://forms.gle/uic6dUnJF7Seb9sm6
 
 ホームページ
 
