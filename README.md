@@ -182,17 +182,11 @@ qrcode_sites.google.com.png
 
 ## 各ファイルの形式
 
-products.txt
+products.txt　　バーコード,商品名,値段,割引率
 
-バーコード,商品名,値段,割引率
+admin_barcode.txt　　店員バーコード
 
-admin_barcode.txt
-
-店員バーコード
-
-store_name.txt
-
-店名
+store_name.txt　　店名
 
 ## 注意事項
 
