@@ -186,6 +186,13 @@ products.txt
 
 バーコード,商品名,値段,割引率
 
+admin_barcode.txt
+
+店員バーコード
+
+store_name.txt
+
+店名
 
 ## 注意事項
 
