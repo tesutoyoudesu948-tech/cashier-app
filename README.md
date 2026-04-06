@@ -212,7 +212,7 @@ exe版：v1.0.2のみレシート店名変更機能が利用可能（店員モ�
 
 3.12
 
-ビルドコマンド（非推奨）
+ビルドコマンド（pyinstaller）
 
 pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect-all pyzbar --collect-all PyQt5 セルフレジ風アプリ.py
 
