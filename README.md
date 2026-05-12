@@ -221,7 +221,7 @@ pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect
 
 お問い合わせフォーム
 
-https://forms.gle/uic6dUnJF7Seb9sm6
+https://docs.google.com/forms/d/e/1FAIpQLSdfND5BlTdZ-n9sERMmRcK7K3KhJyRAuw6b3Bqa24fkmeZTCQ/viewform?usp=dialog
 
 ホームページ
 
