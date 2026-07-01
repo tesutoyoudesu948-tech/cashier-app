@@ -231,3 +231,5 @@ https://sites.google.com/view/qweryuiopasdfghjklzxcvbnm/%E3%83%9B%E3%83%BC%E3%83
 
 https://sites.google.com/view/ho-mupe-zi/%E3%83%9B%E3%83%BC%E3%83%A0
 
+このアプリはChatGPTを使用しています
+
