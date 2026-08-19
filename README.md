@@ -216,20 +216,12 @@ exe版：v1.0.2のみレシート店名変更機能が利用可能（店員モ�
 
 pyinstaller --noconfirm --onefile --windowed --clean --collect-all cv2 --collect-all pyzbar --collect-all PyQt5 セルフレジ風アプリ.py
 
+### このアプリはChatGPTを使用しています　
+
 
 ## リンク
-
-お問い合わせフォーム
-
-https://docs.google.com/forms/d/e/1FAIpQLSdfND5BlTdZ-n9sERMmRcK7K3KhJyRAuw6b3Bqa24fkmeZTCQ/viewform?usp=dialog
 
 ホームページ
 
 https://sites.google.com/view/qweryuiopasdfghjklzxcvbnm/%E3%83%9B%E3%83%BC%E3%83%A0
-
-セルフレジ風アプリのホームページ（googleドライブ版はこちらからをダウンロードできます。）
-
-https://sites.google.com/view/ho-mupe-zi/%E3%83%9B%E3%83%BC%E3%83%A0
-
-このアプリはChatGPTを使用しています　
 
